@@ -1,5 +1,5 @@
 <h1 align="center">Hey!! 👋, I'm Pratyush Prateek</h1>
-<h3 align="center">I'm interested in competitive programming and also in web development</h3>
+<h3 align="center">A Java Spring Boot developer. Skilled in building robust, scalable, and production-ready applications using the Spring framework. Proficient in RESTful API development, database integration, and security implementation. Strong in writing clean, testable code and passionate about delivering high-quality software solutions. Let's create innovative solutions together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick-op&label=Profile%20views&color=0e75b6&style=flat" alt="maverick-op" /> </p>
 
