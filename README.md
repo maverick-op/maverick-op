@@ -1,13 +1,7 @@
 <h1 align="center">Hey!! 👋, I'm Pratyush Prateek</h1>
-<h3 align="center">I am a DevOps Engineer with 1.5 years of experience specializing in Kubernetes (AKS), CI/CD, cloud infrastructure, automation, and observability. I enjoy solving reliability challenges, improving deployment workflows, and building efficient systems that scale.
+<h3 align="center">I am a passionate Java Spring Boot Developer with hands-on experience building scalable, secure, and high-performance backend systems. I enjoy turning complex business requirements into clean, efficient, and maintainable code. My work revolves around crafting microservices, designing REST APIs, and ensuring seamless system integration.
 
-My experience includes managing Kubernetes environments, troubleshooting pod-level issues, monitoring services using Prometheus & Grafana, and automating operations with Python and Bash. I have worked extensively with Azure (AKS, Azure DevOps, Key Vault, Azure Monitor) and built pipelines that support fast, reliable, and secure delivery of applications.
-
-I also focus on service reliability—reducing MTTD/MTTR, improving alerting, and supporting incident response. I’m passionate about infrastructure-as-code and have hands-on experience creating Terraform modules and deploying cloud resources with best practices.
-
-I’m continuously building personal projects to sharpen my DevOps and SRE skills, including Kubernetes-based deployments, CI/CD pipelines, observability stacks, and automation tools. I believe in clean automation, strong debugging skills, and end-to-end visibility as core principles of DevOps.
-
-I am now looking for opportunities in DevOps or SRE roles, especially in product-based companies, where I can contribute to scalable systems, enhance reliability, and grow as an engineer.</h3>
+With an engineering mindset and a strong interest in automation, I actively incorporate DevOps practices into development workflows to improve delivery speed, reliability, and collaboration. I believe modern developers should not just build applications — they should also understand how to package, deploy, and run them in production environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick-op&label=Profile%20views&color=0e75b6&style=flat" alt="maverick-op" /> </p>
 
